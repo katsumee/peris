@@ -1,0 +1,28 @@
+
+.kitti {
+    display: flex;
+    width: 50%;
+    height: 920px;
+    overflow: hidden;
+    margin: 0 auto;
+    border: 2px solid lavender;
+
+}
+.hhh{
+    background-color: rgb(97, 33, 33);
+}
+.kitti-img{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 920;
+    background-color: rgba(0, 0, 0, 0.459);
+}
+.kitti-img img{
+    display: block;
+    width: 500px;
+}
+.control{
+    width: fit-content;
+    margin: 0 auto;
+}

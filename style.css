@@ -102,3 +102,9 @@ p {
 .right {
     align-self: flex-end;
 }
+
+.activiti{
+    background-color: rgb(75, 48, 73);
+    padding: 5px;
+    border-radius: 10px;
+}
